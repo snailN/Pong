@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(130): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(132): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parom\desktop\work\visual studio stuff\projects\pong\pong\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\parom\Desktop\Work\Visual Studio Stuff\Projects\Pong\Debug\Pong.exe
